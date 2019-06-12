@@ -23,4 +23,6 @@
 # Comment participer ?
 
 - Il faut cliquer sur [le stylo là haut pour éditer la page](https://github.com/smonff/trop-simple/edit/master/README.md)
-- Il ne faut pas hésiter à regarder [le code source]()
+- Il ne faut pas hésiter à regarder [le code source](https://raw.githubusercontent.com/smonff/trop-simple/master/README.md)
+- Il est possible décrire [des livres entiers en utilisant ce principe](https://github.com/progit/progit2/tree/master/book)
+
