@@ -22,5 +22,5 @@
 
 # Comment participer ?
 
-- Il faut cliquer sur [le stylo là haut pour éditer la page]()
+- Il faut cliquer sur [le stylo là haut pour éditer la page](https://github.com/smonff/trop-simple/edit/master/README.md)
 - Il ne faut pas hésiter à regarder [le code source]()
