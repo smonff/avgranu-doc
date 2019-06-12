@@ -15,3 +15,7 @@
 ## Tout le monde peut participer
 
 - Parce que c'est trop simple
+
+# La syntaxe ?
+
+- Elle est décrite [dans les spécifications de Markdown](https://daringfireball.net/projects/markdown/syntax) (y'en a pour 25 minutes de lecture)
