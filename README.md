@@ -1,7 +1,7 @@
 # trop-simple
 ## Un projet simple
 
-- Alors
+- Alors tu fais le malin!?
 - C'est dur
 - D'écrire 
 - Comme çà ?
