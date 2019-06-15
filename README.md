@@ -2,8 +2,12 @@
 
 Play music with video samples.
 Realize live montages and generative installations.
-Choose sounds and vidéos and build interactions between two audio/video tracks, a sound analyse module,  
-a time stresh module and a synthetizer and two step Sequencers
+Choose sounds and vidéos and build interactions between 
+- Two audio/video tracks 
+- Sound analyse modules,  
+- Time stresh modules 
+- Synthetizers 
+- Step Sequencers
 (https://obpr.balik.network)
 
 
@@ -12,16 +16,16 @@ a time stresh module and a synthetizer and two step Sequencers
 
 Two Step sequencers generating number sequence
 according to
-A number sequence of time
-A number sequence of itération
-A number sequence of progressivity
-A number sequence to be added or subtract
+- A number sequence of time
+- A number sequence of itération
+- A number sequence of progressivity
+- A number sequence to be added or subtract
 
 Apply the datas to:
-the position of the loop (4)
-to the Pitch and the speed simultaneously (5)
-to the speed only (5) to the pitch only (6)
-to a synthetizer (7)
+- The position of the loop (4)
+- The Pitch and the speed simultaneously (5)
+- The speed only (5) to the pitch only (6)
+- Synthetizers (7)
 
  # $ = value, each step got a value
  
@@ -33,7 +37,7 @@ at every $ of the general sequencer Step ... T $ / G $
 
 # [≠IT]
 - Change steps on the step sequencer (s) in accordance with a fixed $ of time (1000) by default).
-+ Column still on the right: go to the value gradually (1000) by default)
+- + Column still on the right: go to the value gradually (1000) by default)
 
 # [%T]
 - Divides time by the $ from Step Sequencer IT ... T $% IT
@@ -55,8 +59,8 @@ Send a step on two opposite values
 
 # [>>]
 Move linearly on the sequence.
-One step all 6.25$ (100%16 = 6.25)
-if the tempo = loop lenght of the sequence%10
+- One step all 6.25$ (100%16 = 6.25)
+- if the tempo = loop lenght of the sequence%10
 
 # [O]
 Turn this step mute
@@ -71,7 +75,6 @@ Choose position(s) to the starting point of the loop
 
 
 ## Gate
-
 Set the position of the playhead where to start the playback loop
 
 # [raw]
@@ -81,10 +84,10 @@ raw data  A or B
 Make a loop on the fly and change position with Step sequencers
 
 # [@re]
-Call back the loop made in [A@] 
+Call back the loop made in [A@]* 
 
-*When released, read what is after the loop chronologically
-or with the  [@A] mode go back where you were  
+# *When released, read what is after the loop chronologically
+or with the [@A] mode go back where you were  
 at your last [@re]
 
 # [>ø]
@@ -93,7 +96,7 @@ Press on, press off (midi mod)
 # [loc]
 Lock selected source (midi mod)
 
-If you choose to send files triggered by  A or B or randomly with [BB](A) or[ BB1](B) the sample sent will be played at its beginning
+If you choose to send files triggered by A or B or randomly with [BB](A) or[ BB1](B) the sample sent will be played at its beginning
 
 #  [Trg] and [Bng]
 Auto-receive On/off step and send enveloppe to
@@ -111,30 +114,32 @@ Send on/off step and set enveloppe from sources selected in
 s&p, speed, or pitch
 
 # [ø]
-Trigger the Step sequencer A or B as selected in
+Trigger the Step sequencer [A] or [B] as selected in
 s&p, speed, or pitch
 
 
 ## Audio modulations
 
-Speed and pitch (50 = 0= stop, 75= go forward , 25= go back)
-Speed only (50 = 0= stop, 75= go forward , 25= go back)
-Pitch only (0 = default)
+- Speed and pitch (50 = 0= stop, 75= go forward , 25= go back)
+- Speed only (50 = 0= stop, 75= go forward , 25= go back)
+- Pitch only (0 = default)
 
 Left ’s 2 columns
+- select data source
 
 # [bck]
 Back to default $ after selection released 
 
 # [O] 
 Go back to default $
-slider: set value
+# slider
+set value
 
 Choose data source 
 # [A], [B], [‘’a] or [‘’b]
 
 Right’s 2 columns
-Module data from the left ’s 2 columns
+- Module data from the left ’s 2 columns
 
 # [44]
 choose between 44100/88200 hz
@@ -152,12 +157,12 @@ Choose data source
 Advance your number sequence, pattern, over the entire sample
 
 Make the pattern you are making with Stepseq A or B sliding along the loop lenght more a less rapidly.
-Select entry point in the sample
-Select exit point
-Select strecthing value
+- Select entry point in the sample
+- Select exit point
+- Select strecthing value
 
 Analyse silences and attacks in the  audio signal of sampler or synthetizer
-Send the values as 
+- Send the values as 
 # [‘’a] or [‘’b] 
 Select a source
 # [A]
