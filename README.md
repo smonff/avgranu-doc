@@ -87,9 +87,11 @@ Call back the loop made in [A@]
 or with the  [@A] mode go back where you were  
 at your last [@re]
 
-Press on, press off  (midi mod)
+# [>ø]
+Press on, press off (midi mod)
 
-Lock selected source  (midi mod)
+# [loc]
+Lock selected source (midi mod)
 
 If you choose to send files triggered by  A or B or randomly with [BB](A) or[ BB1](B) the sample sent will be played at its beginning
 
