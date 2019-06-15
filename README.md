@@ -1,4 +1,4 @@
-## AVGRANU
+# AVGRANU
 
 Play music with video samples.
 Realize live montages and generative installations.
@@ -8,14 +8,17 @@ Choose sounds and vidéos and build interactions between
 - Time stresh modules 
 - Synthetizers 
 - Step Sequencers
+
 (https://obpr.balik.network)
 
 
 
-## Step sequencers 
+# Step sequencers 
 
 Two Step sequencers generating number sequence
 according to
+
+
 - A number sequence of time
 - A number sequence of itération
 - A number sequence of progressivity
@@ -27,13 +30,13 @@ Apply the datas to:
 - The speed only (5) to the pitch only (6)
 - Synthetizers (7)
 
- # $ = value, each step got a value
+# `$` = value, each step got a value
  
 # [=IT]
-- Play all $ of time (all $ of Step sequencerT)
+- Play all `$` of time (all `$` of Step sequencerT)
 at each value of the general Step Sequencer (top line) ... allT $ / G $
 - If it is not triggered = Play a $ of the Step sequencerT
-at every $ of the general sequencer Step ... T $ / G $
+at every `$` of the general sequencer Step ... T $ / G $
 
 # [≠IT]
 - Change steps on the step sequencer (s) in accordance with a fixed $ of time (1000) by default).
