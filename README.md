@@ -227,7 +227,7 @@ Audio control opacity
 ## Un projet simple
 
 - Alors tu fais le malin!?
-- C'est dur
+- C'est dur? Tu veux dire duRE!?
 - D'écrire 
 - Comme çà ?
 
