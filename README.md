@@ -178,39 +178,39 @@ number of step$ 1 to 5
 ## Files selection
 
 Select audio and vidéo loop
-Call bank or single audio and vidéo files.
+- Call bank or single audio and vidéo files.
 
-Data bank video
-Data bank AV
-Data bank audio
-Link A&V selection
+- Data bank video
+- Data bank AV
+- Data bank audio
+- Link A&V selection
 
-select the file number..
-Open browser
-Select the file with A or B
-One random selection
-One random selection
+- Select the file number..
+- Open browser
+- Select the file with A or B
+- One random selection
+- One random selection
 under the speed of Step sequencer [BB](A) or[ BB1](B)
-clear Drop down menu
-Open browser
-Drop down menu
+- clear Drop down menu
+- Open browser
+- Drop down menu
 
 
 ## Video settings
 
 Set video specifications
-dimension, frame rate, incrustations and image modulations
+- dimension, frame rate, incrustations and image modulations
 
-Threshold: Turn pixel transparent according to the color
-Change height and width
-Change only width
-Change only height
-Change ratio height/width
-Get dimension of the video sample
-change XYZ
-Contrast
-Saturation
-Motion blur
+- Threshold: Turn pixel transparent according to the color
+- Change height and width
+- Change only width
+- Change only height
+- Change ratio height/width
+- Get dimension of the video sample
+- Change XYZ
+- Contrast
+- Saturation
+- Motion blur
 
 On/off
 Receive On/off
