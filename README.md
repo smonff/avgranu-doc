@@ -11,7 +11,7 @@ a time stresh module and a synthetizer and two step Sequencers
 ## Step sequencers 
 
 Two Step sequencers generating number sequence
-according to . . .
+according to
 A number sequence of time
 A number sequence of itération
 A number sequence of progressivity
