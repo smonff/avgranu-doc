@@ -143,18 +143,19 @@ s&p, speed, or pitch
 
 Speed and pitch (50 = 0= stop, 75= go forward , 25= go back)
 Speed only (50 = 0= stop, 75= go forward , 25= go back)
-Pitch only 
+Pitch only (0 = default)
 
 Left ’s 2 columns
 
 # [bck]
-Back to normal after selection released 
+Back to default $ after selection released 
 
 # [O] 
-Go back to normal
+Go back to default $
 slider: set value
 
-Choose data source [A], [B], [‘’a] or [‘’b]
+Choose data source 
+# [A], [B], [‘’a] or [‘’b]
 
 Right’s 2 columns
 Module data from the left ’s 2 columns
@@ -163,10 +164,11 @@ Module data from the left ’s 2 columns
 choose between 44100/88200 hz
 
 # [O] 
-Go back to normal
+Go back to default $
 slider: set  modulation value
 
-Choose data source [A], [B], [‘’a] or [‘’b]
+Choose data source 
+# [A], [B], [‘’a] or [‘’b]
 
 
 # # Time stretching until drone
@@ -178,14 +180,19 @@ Select exit point
 Select strecthing value
 
 Analyse silences and attacks in the  audio signal of sampler or synthetizer
-Send the values as [‘’a] or [‘’b] 
+Send the values as 
+# [‘’a] or [‘’b] 
 Select a source
-# [A]= track AV left 
-# [C]= upper synthetiser in purewave-synth
+# [A]
+track AV left 
+# [C]
+upper synthetiser in purewave-synth
+# [sctch]
 Mode scratch
 suite de valeurs opposées 0-100, 25-75 etc
 Sensibility
 Progressivity
+# [stp]
 Mode steps
 numbers sequence
 number of step$ 1 to 5
@@ -211,7 +218,7 @@ Open browser
 Drop down menu
 
 
-Video settings
+# # Video settings
 Set video specifications
 dimension, frame rate, incrustations and image modulations
 
