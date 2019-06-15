@@ -1,42 +1,15 @@
-# trop-simple
-## Un projet simple
-
-- Alors tu fais le malin!?
-- C'est dur
-- D'écrire 
-- Comme çà ?
-
-
-## Écrire un manuel en Markdown
-
-- C'est pas
-- Si compliqué
-
-## Tout le monde peut participer
-
-- Parce que c'est trop simple
-
-# La syntaxe ?
-
-- Elle est décrite [dans les spécifications de Markdown](https://daringfireball.net/projects/markdown/syntax) (y'en a pour 25 minutes de lecture)
-
-# Comment participer ?
-
-- Il faut cliquer sur [le stylo là haut pour éditer la page](https://github.com/smonff/trop-simple/edit/master/README.md)
-- Il ne faut pas hésiter à regarder [le code source](https://raw.githubusercontent.com/smonff/trop-simple/master/README.md)
-- Il est possible décrire [des livres entiers en utilisant ce principe](https://github.com/progit/progit2/tree/master/book)
-
+## AVGRANU
 
 Play music with video samples.
 Realize live montages and generative installations.
-https://obpr.balik.network
+(https://obpr.balik.network)
 Choose sounds and vidéos and build interactions between
 two audio/video tracks, a sound analyse module,  
 a time stresh module and a synthetizer and two step Sequencers
 
 
 
-# Step sequencers 
+## Step sequencers 
 
 Two Step sequencers generating number sequence
 according to . . .
@@ -90,7 +63,8 @@ if the tempo = loop lenght of the sequence%10
 Turn this step mute
 
 
-# # Selectors and modulation
+## Selectors and modulation
+
 Choose position(s) to the starting point of the loop
 - Add value to this position(s)
 - Move the postion(s) along the whole sequence
@@ -139,7 +113,7 @@ Trigger the Step sequencer A or B as selected in
 s&p, speed, or pitch
 
 
-# # Audio modulations
+## Audio modulations
 
 Speed and pitch (50 = 0= stop, 75= go forward , 25= go back)
 Speed only (50 = 0= stop, 75= go forward , 25= go back)
@@ -171,7 +145,8 @@ Choose data source
 # [A], [B], [‘’a] or [‘’b]
 
 
-# # Time stretching until drone
+## Time stretching until drone
+
 Advance your number sequence, pattern, over the entire sample
 
 Make the pattern you are making with Stepseq A or B sliding along the loop lenght more a less rapidly.
@@ -198,7 +173,8 @@ numbers sequence
 number of step$ 1 to 5
 
 
-# # Files selection
+## Files selection
+
 Select audio and vidéo loop
 Call bank or single audio and vidéo files.
 
@@ -218,7 +194,8 @@ Open browser
 Drop down menu
 
 
-# # Video settings
+## Video settings
+
 Set video specifications
 dimension, frame rate, incrustations and image modulations
 
@@ -238,3 +215,32 @@ Receive On/off
 Invert color
 Audio control opacity
  
+ 
+ # trop-simple
+## Un projet simple
+
+- Alors tu fais le malin!?
+- C'est dur
+- D'écrire 
+- Comme çà ?
+
+
+## Écrire un manuel en Markdown
+
+- C'est pas
+- Si compliqué
+
+## Tout le monde peut participer
+
+- Parce que c'est trop simple
+
+# La syntaxe ?
+
+- Elle est décrite [dans les spécifications de Markdown](https://daringfireball.net/projects/markdown/syntax) (y'en a pour 25 minutes de lecture)
+
+# Comment participer ?
+
+- Il faut cliquer sur [le stylo là haut pour éditer la page](https://github.com/smonff/trop-simple/edit/master/README.md)
+- Il ne faut pas hésiter à regarder [le code source](https://raw.githubusercontent.com/smonff/trop-simple/master/README.md)
+- Il est possible décrire [des livres entiers en utilisant ce principe](https://github.com/progit/progit2/tree/master/book)
+
