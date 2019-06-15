@@ -71,6 +71,7 @@ Choose position(s) to the starting point of the loop
 
 
 ## Gate
+
 Set the position of the playhead where to start the playback loop
 
 # [raw]
